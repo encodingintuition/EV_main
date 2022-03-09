@@ -12,10 +12,9 @@ Electric Vehicles are showing up in US driveways in more significant numbers, ma
 3. Innovate in data architectures and methodologies to help forecast and load balance electric grids through the energy transition.
 
 
-<<<<<<< HEAD
-#### Brainstormed Questions 
+### Brainstormed Questions 
 
-Vehicles behavor 
+##### Vehicles behavior  
 - How many vehicles are registered? (veh)
 	- only a percentage of the registered vehicles are on the road per day or at a section of time. 
 - How many vehicles are on the road daily? (veh-daily )
@@ -24,16 +23,11 @@ Vehicles behavor
 - What geographical routes do these vehicles travel? (veh-daily-routes)
 - What was the function of the traveling vehicle(veh-daily-ref)
 
-EVs 
+##### EVs 
 - What is the electrical consumption of EV per mile kWh? (EV-mpkWh)
 - How long does it take for an EV to charge, per kWh per connection type? (station-kWhperMin) 
 - What times are the EVs being charged? (station-kWhpermin-time)
 - Where are EVs being charged? (station-kWhpermin-time-GIS)
 - How long is an EV left plugged-in after charging is complete? (station-chargecomplete--pluggedcomplete)
 - be plugged in to be charged per connection
--Geographic distribution of commercial charging stations and EV owner's home charging stations? (station-GIS = commercial station-GIS & homeChargingStation-GIS)
-    
-=======
-
-    
->>>>>>> 88ee56dfbfec54aa9888aa0e5ea6992b48986d4d
+- Geographic distribution of commercial charging stations and EV owner's home charging stations? (station-GIS = commercial station-GIS & homeChargingStation-GIS)
