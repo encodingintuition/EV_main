@@ -12,5 +12,5 @@ Electric Vehicles are showing up in US driveways in more significant numbers, ma
 3. Innovate in data architectures and methodologies to help forecast and load balance electric grids through the energy transition.
 
 
-# Contents
+
     
